@@ -31,7 +31,7 @@
 <div align="center">
   <h2>Introduce Me</h2>
   <br>
-  <img alt="snake eating my contributions" src="[https://github.com/jan-aro/jan-aro/blob/main/snake%20contribution.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/jan-aro/jan-aro/blob/main/snake%20contribution.svg" />
   
   <br/><br/>
 </div>
