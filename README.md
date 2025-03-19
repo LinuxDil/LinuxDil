@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=jan-aro&label=Profile%20views&color=0e75b6&style=flat" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jan+A+Ro!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linux+Dil!;" />
 </h1>
 
 <h3 align="center">A passionate Programming from Indonesia</h3>
@@ -11,7 +11,7 @@
 <div align="center">
  
  🌱 I’m currently learning **Golang**
-
+Join Us: https://t.me/airdropseeker_official
 💬 Ask me about **JavaScript, Python, PHP or Anything**
 
  </div>
