@@ -11,7 +11,9 @@
 <div align="center">
  
  🌱 I’m currently learning **Golang**
+ <br/>
 Join Us: https://t.me/airdropseeker_official
+<br/>
 💬 Ask me about **JavaScript, Python, PHP or Anything**
 
  </div>
